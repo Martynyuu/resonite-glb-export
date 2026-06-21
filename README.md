@@ -66,6 +66,12 @@ Resonite by enabling/disabling their slots.
 - **Baking** writes temporary assets under `Assets/ZZZ_GeneratedAssets` (NDMF). Safe to delete.
 - The exporter never modifies your scene avatar — it always works on a throwaway clone.
 
+## Support
+
+If this saved you some pain getting your avatar into Resonite, you can support development here:
+
+☕ **[ko-fi.com/strudel9](https://ko-fi.com/strudel9)**
+
 ## License
 
 MIT — see [LICENSE.md](LICENSE.md).
