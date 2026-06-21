@@ -1,0 +1,12 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# NOTE: Unity .meta files MUST be committed for a UPM package — do not ignore them.

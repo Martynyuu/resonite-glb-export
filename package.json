@@ -1,0 +1,27 @@
+{
+  "name": "io.github.martynyuu.resonite-glb-export",
+  "version": "1.0.0",
+  "displayName": "Resonite GLB Avatar Exporter",
+  "description": "One-click export of a Unity (VRChat) avatar to a single .glb for native drag-and-drop import into Resonite. Optionally bakes Modular Avatar / NDMF non-destructively first (Merge-Armature accessories keep correct weights) and works around glTFast's null-bone export crash. No Resonite mod, no bridge, no headless engine — just a .glb that Resonite's own importer loads (meshes, skeleton, blendshapes/morphs, embedded textures).",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/Martynyuu/resonite-glb-export",
+  "changelogUrl": "https://github.com/Martynyuu/resonite-glb-export/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Martynyuu/resonite-glb-export/blob/main/LICENSE.md",
+  "author": {
+    "name": "SRI Spiral Reality Interactive GmbH"
+  },
+  "license": "MIT",
+  "keywords": [
+    "resonite",
+    "gltf",
+    "glb",
+    "avatar",
+    "vrchat",
+    "export",
+    "ndmf",
+    "modular-avatar"
+  ],
+  "dependencies": {
+    "com.unity.cloud.gltfast": "6.0.1"
+  }
+}
